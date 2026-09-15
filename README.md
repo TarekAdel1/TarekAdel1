@@ -1,208 +1,146 @@
-# 👋 Hey, I'm Tarek Adel
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Agentic+AI+Enthusiast;Building+Intelligent+Systems+with+Python" />
-</p>
+<img src="assets/banner.svg" width="100%" alt="Tarek Adel - AI Engineer"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TarekAdel1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 🧠 About Me
-
-I'm an **AI & Machine Learning Engineer** focused on building intelligent applications using:
-
-* 🤖 Generative AI
-* 🧠 Machine Learning & Deep Learning
-* 🔗 RAG & LLM Applications
-* 🕸️ Agentic AI & AI Agents
-* 👁️ Computer Vision
-* 💬 NLP
-* 🐍 Python
-
-I enjoy turning AI concepts into **real, usable applications** and continuously exploring new approaches in the GenAI ecosystem.
-
----
-
-## ⚡ What I'm Working With
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,streamlit,git,github,docker,linux,vscode" />
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=langchain" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Nexus — Agentic AI Research Assistant
-
-An agentic AI assistant capable of deciding when to use external tools such as **Web Search and Wikipedia**.
-
-**Tech:** Python • LangChain • LangGraph • Groq • Streamlit
-
-🔗 [Repository](https://github.com/TarekAdel1/Nexus)
-
----
-
-### 📚 Conversational RAG Assistant
-
-A multi-PDF conversational assistant with:
-
-* 📄 Multiple PDF uploads
-* 🧠 Conversational memory
-* 🔎 Semantic retrieval
-* 🎯 MMR retrieval
-* 📑 Source & page references
-* 💬 Follow-up questions
-
-**Tech:** Python • LangChain • ChromaDB • Groq • Streamlit
-
-🔗 [Repository](https://github.com/TarekAdel1/rag-conversational-chatbot)
-
----
-
-### 🌍 AI Translator & Summarizer
-
-An AI application that translates text and generates concise summaries using modern LLMs.
-
-**Tech:** Python • LangChain • Groq • Llama • Streamlit
-
----
-
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarekAdel1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAdel1&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TarekAdel1&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarekAdel1&theme=tokyo-night&hide_border=true&area=true" />
-
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-**Generative AI**
-
-`LLMs` • `RAG` • `LangChain` • `LangGraph` • `Vector Databases` • `Embeddings` • `Prompt Engineering` • `Tool Calling` • `AI Agents`
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,linux,vscode" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
----
-
-## 🎯 Currently Learning
-
-```text
-Generative AI
-      ↓
-LLM Applications
-      ↓
-RAG Systems
-      ↓
-AI Agents
-      ↓
-LangGraph
-      ↓
-Production AI Systems
-```
-
-I'm currently focused on moving from **building AI prototypes → building production-ready AI systems**.
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TarekAdel1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/tarek-adell">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
 <a href="https://github.com/TarekAdel1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-TarekAdel1-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/tarek-adell">
+  <img src="https://img.shields.io/badge/LinkedIn-Tarek%20Adel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+AI+systems+that+actually+do+things.;Python+%7C+LangChain+%7C+LangGraph+%7C+LLMs" alt="Typing animation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=TarekAdel1&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
 
-<p align="center">
+## `> whoami`
 
-### 💡 "Building the future, one intelligent system at a time."
+```python
+class TarekAdel:
 
-</p>
+    role = "AI & Machine Learning Engineer"
+    focus = ["Generative AI", "Agentic AI", "Machine Learning"]
+    building = ["LLM Applications", "RAG Systems", "AI Agents"]
+    language = "Python"
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
-</p>
+    mindset = "learn → build → ship → repeat"
+```
+
+I build practical AI applications and enjoy going beyond simple model demos — from LLM-powered applications and RAG pipelines to tool-using agents and production-oriented APIs.
+
+## ⚡ CURRENT_STACK
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,streamlit,docker,git,github,linux,vscode&perline=11" /><br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graph&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-164E63?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-4C1D95?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F97316?style=for-the-badge&logo=groq&logoColor=white"/>
+</div>
+
+## 🧠 WHAT_I_BUILD
+
+<table>
+<tr>
+<td width="50%" valign="top">🤖 <b>Generative AI</b><br/>
+LLM applications, prompting, embeddings, structured outputs, streaming and model integration.
+</td>
+<td width="50%" valign="top">🕸️ <b>Agentic AI</b><br/>
+Tool calling, state, memory, routing and multi-step workflows with LangGraph.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">🔎 <b>RAG</b><br/>
+Document ingestion, chunking, embeddings, vector search, MMR retrieval and conversational context.
+</td>
+<td width="50%" valign="top">🧪 <b>ML / DL</b><br/>
+Classification, NLP, computer vision and deep-learning projects using practical datasets.
+</td>
+</tr>
+</table>
+
+## 🚀 FEATURED_PROJECTS
+
+<div align="center">
+
+🧬 <b>NEXUS — Agentic AI Research Assistant</b>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=67E8F9" width="75%"/>
+An AI research assistant that can reason about a request, decide when tools are needed, search the web / Wikipedia, maintain conversation state and stream its response.<br/>
+<i>Python • LangChain • LangGraph • Groq • Streamlit • Tool Calling</i><br/>
+<a href="https://github.com/TarekAdel1"><img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a><br/><br/>
+
+📚 <b>Conversational RAG Assistant</b>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=A78BFA" width="75%"/>
+Multi-PDF conversational assistant with follow-up memory, MMR retrieval and source/page references.<br/>
+<i>Python • LangChain • ChromaDB • Groq • Streamlit</i><br/>
+<a href="https://github.com/TarekAdel1/rag-conversational-chatbot"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+## 🐍 CONTRIBUTION_MATRIX
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="95%"/>
+</div>
+
+## 📊 SYSTEM_METRICS
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TarekAdel1&show_icons=true&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAdel1&layout=compact&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&bg_color=00000000" height="180"/><br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=TarekAdel1&theme=transparent&hide_border=true&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%"/>
+</div>
+
+## 📈 ACTIVITY_STREAM
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarekAdel1&bg_color=00000000&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub activity graph"/>
+</div>
+
+## 🎯 ROADMAP
+
+```text
+                    AI ENGINEERING
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+       GenAI          Agents           ML
+          │              │              │
+          ▼              ▼              ▼
+        RAG          LangGraph       Deep Learning
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                 Production AI
+                         │
+                         ▼
+                 🚀 BUILD & SHIP
+```
+
+## 🌐 CONNECT
+
+<div align="center">
+<a href="https://www.linkedin.com/in/tarek-adell">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/TarekAdel1">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0E7490,100:4C1D95" width="100%"/>
+</div>
