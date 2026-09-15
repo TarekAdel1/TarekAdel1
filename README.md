@@ -92,9 +92,8 @@ Multi-PDF conversational assistant with follow-up memory, MMR retrieval and sour
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=TarekAdel1&show_icons=true&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000&rank_icon=github&cache_seconds=7200" height="175" alt="Tarek's GitHub stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TarekAdel1&layout=compact&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000&cache_seconds=7200" height="175" alt="Top Languages"/><br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAdel1&theme=transparent&hide_border=true&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF&mode=daily" width="72%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TarekAdel1&layout=compact&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000&cache_seconds=7200" height="175" alt="Top Languages"/>
+</div>
 
 ## 🎯 ROADMAP
 
