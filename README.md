@@ -1,22 +1,17 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Tarek Adel - AI Engineer"/>
+<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/banner.svg" width="100%" alt="Tarek Adel - AI Engineer"/>
 
 <br/>
 
-<a href="https://github.com/TarekAdel1">
-  <img src="https://img.shields.io/badge/GitHub-TarekAdel1-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/TarekAdel1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-TarekAdel1-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
-<a href="https://www.linkedin.com/in/tarek-adell">
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tarek-adell" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Tarek%20Adel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+AI+systems+that+actually+do+things.;Python+%7C+LangChain+%7C+LangGraph+%7C+LLMs" alt="Typing animation"/>
-
-<br/>
-
+&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=TarekAdel1&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
@@ -25,18 +20,15 @@
 
 ## `> whoami`
 
-```python
-class TarekAdel:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/whoami.svg" width="95%" alt="Tarek Adel Class Definition"/>
+</div>
 
-    role = "AI & Machine Learning Engineer"
-    focus = ["Generative AI", "Agentic AI", "Machine Learning"]
-    building = ["LLM Applications", "RAG Systems", "AI Agents"]
-    language = "Python"
+<br/>
 
-    mindset = "learn → build → ship → repeat"
-```
-
-I build practical AI applications and enjoy going beyond simple model demos — from LLM-powered applications and RAG pipelines to tool-using agents and production-oriented APIs.
+<p align="center">
+  <i>I build practical AI applications and enjoy going beyond simple model demos — from LLM-powered applications and RAG pipelines to tool-using agents and production-oriented APIs.</i>
+</p>
 
 ## ⚡ CURRENT_STACK
 
