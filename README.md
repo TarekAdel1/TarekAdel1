@@ -67,6 +67,30 @@
   </a>
 </div>
 
+## 🧠 WHAT_I_BUILD
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/what-i-build.svg" width="95%" alt="What I Build Capabilities"/>
+</div>
+
+<br/>
+
+## 🚀 FEATURED_PROJECTS
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/featured-projects.svg" width="95%" alt="Featured AI Projects"/>
+
+  <br/><br/>
+
+  <a href="https://github.com/TarekAdel1" target="_blank">
+    <img src="https://img.shields.io/badge/NEXUS-View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TarekAdel1/rag-conversational-chatbot" target="_blank">
+    <img src="https://img.shields.io/badge/RAG%20Assistant-View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
 ## 🐍 CONTRIBUTION_MATRIX
 
 <div align="center">
