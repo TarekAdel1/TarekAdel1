@@ -33,14 +33,17 @@
 ### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%E2%9A%A1%20CURRENT_STACK&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="⚡ CURRENT_STACK"/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,opencv,hf,git,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,opencv,docker,git,github,vscode&perline=10" />
+  
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graph&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-164E63?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-4C1D95?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F97316?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graph&logoColor=67E8F9"/>
+  <img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-164E63?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-4C1D95?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F97316?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div>
 
 ### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%F0%9F%A7%A0%20WHAT_I_BUILD&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="🧠 WHAT_I_BUILD"/>
