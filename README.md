@@ -45,41 +45,26 @@
 
 ## 🧠 WHAT_I_BUILD
 
-<table>
-<tr>
-<td width="50%" valign="top">🤖 <b>Generative AI</b><br/>
-LLM applications, prompting, embeddings, structured outputs, streaming and model integration.
-</td>
-<td width="50%" valign="top">🕸️ <b>Agentic AI</b><br/>
-Tool calling, state, memory, routing and multi-step workflows with LangGraph.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🔎 <b>RAG</b><br/>
-Document ingestion, chunking, embeddings, vector search, MMR retrieval and conversational context.
-</td>
-<td width="50%" valign="top">🧪 <b>ML / DL</b><br/>
-Classification, NLP, computer vision and deep-learning projects using practical datasets.
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/what-i-build.svg" width="95%" alt="What I Build Capabilities"/>
+</div>
+
+<br/>
 
 ## 🚀 FEATURED_PROJECTS
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/featured-projects.svg" width="95%" alt="Featured AI Projects"/>
 
-🧬 <b>NEXUS — Agentic AI Research Assistant</b>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=67E8F9" width="75%"/>
-An AI research assistant that can reason about a request, decide when tools are needed, search the web / Wikipedia, maintain conversation state and stream its response.<br/>
-<i>Python • LangChain • LangGraph • Groq • Streamlit • Tool Calling</i><br/>
-<a href="https://github.com/TarekAdel1"><img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a><br/><br/>
+  <br/><br/>
 
-📚 <b>Conversational RAG Assistant</b>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=A78BFA" width="75%"/>
-Multi-PDF conversational assistant with follow-up memory, MMR retrieval and source/page references.<br/>
-<i>Python • LangChain • ChromaDB • Groq • Streamlit</i><br/>
-<a href="https://github.com/TarekAdel1/rag-conversational-chatbot"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+  <a href="https://github.com/TarekAdel1" target="_blank">
+    <img src="https://img.shields.io/badge/NEXUS-View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TarekAdel1/rag-conversational-chatbot" target="_blank">
+    <img src="https://img.shields.io/badge/RAG%20Assistant-View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 ## 🐍 CONTRIBUTION_MATRIX
