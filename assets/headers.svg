@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <defs>
+    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <linearGradient id="glowBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="70%" stop-color="#A855F7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="neon" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .hdr-text {
+        font-family: 'JetBrains Mono', 'Fira Code', monospace;
+        font-size: 20px;
+        font-weight: 800;
+        letter-spacing: 1.2px;
+        fill: url(#cyanPurple);
+      }
+      .hdr-line {
+        fill: url(#glowBar);
+      }
+      .hdr-dot {
+        fill: #22D3EE;
+        filter: url(#neon);
+      }
+    </style>
+
+    <!-- 1. whoami -->
+    <g id="whoami">
+      <circle cx="8" cy="19" r="3.5" class="hdr-dot"/>
+      <text x="22" y="25" class="hdr-text">&gt; whoami</text>
+      <rect x="22" y="34" width="130" height="2.5" rx="1.2" class="hdr-line"/>
+    </g>
+
+    <!-- 2. stack -->
+    <g id="stack">
+      <circle cx="8" cy="19" r="3.5" class="hdr-dot"/>
+      <text x="22" y="25" class="hdr-text">⚡ CURRENT_STACK</text>
+      <rect x="22" y="34" width="210" height="2.5" rx="1.2" class="hdr-line"/>
+    </g>
+
+    <!-- 3. what-i-build -->
+    <g id="build">
+      <circle cx="8" cy="19" r="3.5" class="hdr-dot"/>
+      <text x="22" y="25" class="hdr-text">🧠 WHAT_I_BUILD</text>
+      <rect x="22" y="34" width="195" height="2.5" rx="1.2" class="hdr-line"/>
+    </g>
+
+    <!-- 4. featured-projects -->
+    <g id="projects">
+      <circle cx="8" cy="19" r="3.5" class="hdr-dot"/>
+      <text x="22" y="25" class="hdr-text">🚀 FEATURED_PROJECTS</text>
+      <rect x="22" y="34" width="250" height="2.5" rx="1.2" class="hdr-line"/>
+    </g>
+
+    <!-- 5. metrics -->
+    <g id="metrics">
+      <circle cx="8" cy="19" r="3.5" class="hdr-dot"/>
+      <text x="22" y="25" class="hdr-text">📊 SYSTEM_METRICS</text>
+      <rect x="22" y="34" width="205" height="2.5" rx="1.2" class="hdr-line"/>
+    </g>
+
+    <!-- 6. roadmap -->
+    <g id="roadmap">
+      <circle cx="8" cy="19" r="3.5" class="hdr-dot"/>
+      <text x="22" y="25" class="hdr-text">🎯 ROADMAP</text>
+      <rect x="22" y="34" width="145" height="2.5" rx="1.2" class="hdr-line"/>
+    </g>
+
+    <!-- 7. connect -->
+    <g id="connect">
+      <circle cx="8" cy="19" r="3.5" class="hdr-dot"/>
+      <text x="22" y="25" class="hdr-text">🌐 CONNECT</text>
+      <rect x="22" y="34" width="140" height="2.5" rx="1.2" class="hdr-line"/>
+    </g>
+  </defs>
+</svg>
