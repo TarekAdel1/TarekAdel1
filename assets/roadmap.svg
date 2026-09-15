@@ -1,0 +1,104 @@
+<svg width="860" height="340" viewBox="0 0 860 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glowLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <filter id="neonBlur">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .node-box {
+        rx: 10px;
+        fill: url(#cardGrad);
+        stroke: #334155;
+        stroke-width: 1.5;
+        transition: all 0.3s ease;
+      }
+      .node-text {
+        font-family: 'JetBrains Mono', monospace, sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        text-anchor: middle;
+        dominant-baseline: central;
+      }
+      .pipeline-line {
+        stroke: #334155;
+        stroke-width: 2;
+        fill: none;
+      }
+      .pulse-particle {
+        fill: #67e8f9;
+        filter: url(#neonBlur);
+      }
+    </style>
+  </defs>
+
+  <!-- Connection Traces -->
+  <path d="M 430 55 L 430 90" class="pipeline-line"/>
+  <path d="M 170 90 L 690 90" class="pipeline-line"/>
+  <path d="M 170 90 L 170 120" class="pipeline-line"/>
+  <path d="M 430 90 L 430 120" class="pipeline-line"/>
+  <path d="M 690 90 L 690 120" class="pipeline-line"/>
+  
+  <path d="M 170 160 L 170 190" class="pipeline-line"/>
+  <path d="M 430 160 L 430 190" class="pipeline-line"/>
+  <path d="M 690 160 L 690 190" class="pipeline-line"/>
+  
+  <path d="M 170 230 L 170 255 L 690 255 L 690 230" class="pipeline-line"/>
+  <path d="M 430 230 L 430 280" class="pipeline-line"/>
+
+  <!-- Animated Data Streams -->
+  <!-- Center Stem 1 -->
+  <circle r="3" class="pulse-particle">
+    <animateMotion dur="2.8s" repeatCount="indefinite" path="M 430 55 L 430 90 L 170 90 L 170 120 L 170 160 L 170 190 L 170 255 L 430 255 L 430 280"/>
+  </circle>
+  <!-- Center Stem 2 -->
+  <circle r="3.5" class="pulse-particle" fill="#a855f7">
+    <animateMotion dur="2.2s" begin="0.4s" repeatCount="indefinite" path="M 430 55 L 430 120 L 430 160 L 430 190 L 430 280"/>
+  </circle>
+  <!-- Center Stem 3 -->
+  <circle r="3" class="pulse-particle">
+    <animateMotion dur="3.1s" begin="0.9s" repeatCount="indefinite" path="M 430 55 L 430 90 L 690 90 L 690 120 L 690 160 L 690 190 L 690 255 L 430 255 L 430 280"/>
+  </circle>
+
+  <!-- Level 1: Root -->
+  <rect x="330" y="15" width="200" height="42" class="node-box" stroke="#22d3ee" stroke-width="2"/>
+  <text x="430" y="36" class="node-text" fill="#67e8f9">⚡ AI ENGINEERING</text>
+
+  <!-- Level 2: Pillars -->
+  <rect x="85" y="120" width="170" height="40" class="node-box"/>
+  <text x="170" y="140" class="node-text" fill="#94a3b8">GenAI</text>
+
+  <rect x="345" y="120" width="170" height="40" class="node-box"/>
+  <text x="430" y="140" class="node-text" fill="#94a3b8">Agents</text>
+
+  <rect x="605" y="120" width="170" height="40" class="node-box"/>
+  <text x="690" y="140" class="node-text" fill="#94a3b8">ML / Systems</text>
+
+  <!-- Level 3: Tech Focus -->
+  <rect x="85" y="190" width="170" height="40" class="node-box" stroke="#0891b2"/>
+  <text x="170" y="210" class="node-text" fill="#38bdf8">RAG Pipelines</text>
+
+  <rect x="345" y="190" width="170" height="40" class="node-box" stroke="#8b5cf6"/>
+  <text x="430" y="210" class="node-text" fill="#c084fc">LangGraph Workflows</text>
+
+  <rect x="605" y="190" width="170" height="40" class="node-box" stroke="#ec4899"/>
+  <text x="690" y="210" class="node-text" fill="#f472b6">Deep Learning &amp; CV</text>
+
+  <!-- Level 4: Destination Target -->
+  <rect x="320" y="280" width="220" height="44" class="node-box" stroke="url(#glowLine)" stroke-width="2"/>
+  <text x="430" y="302" class="node-text" fill="#ffffff">🚀 BUILD • SHIP • SCALE</text>
+</svg>
