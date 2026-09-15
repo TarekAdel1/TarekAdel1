@@ -1,0 +1,86 @@
+<svg width="860" height="230" viewBox="0 0 860 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="cyanGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+
+    <linearGradient id="purpleGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <filter id="cardBlur">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .card {
+        rx: 12px;
+        fill: url(#cardBg);
+        stroke: #1e293b;
+        stroke-width: 1.5;
+      }
+      .title {
+        font-family: 'JetBrains Mono', monospace, sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+      }
+      .desc {
+        font-family: system-ui, -apple-system, sans-serif;
+        font-size: 12.5px;
+        fill: #94a3b8;
+        line-height: 1.4;
+      }
+    </style>
+  </defs>
+
+  <!-- Card 1: GenAI -->
+  <rect x="10" y="10" width="410" height="98" class="card"/>
+  <rect x="10" y="10" width="410" height="3" rx="1" fill="url(#cyanGlow)"/>
+  <circle cx="28" cy="35" r="4" fill="#06b6d4" filter="url(#cardBlur)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="42" y="40" class="title" fill="#67e8f9">🤖 Generative AI</text>
+  <text x="25" y="65" class="desc">LLM applications, prompting, embeddings, structured</text>
+  <text x="25" y="85" class="desc">outputs, streaming, and API integrations.</text>
+
+  <!-- Card 2: Agentic AI -->
+  <rect x="440" y="10" width="410" height="98" class="card"/>
+  <rect x="440" y="10" width="410" height="3" rx="1" fill="url(#purpleGlow)"/>
+  <circle cx="458" cy="35" r="4" fill="#a855f7" filter="url(#cardBlur)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="472" y="40" class="title" fill="#c084fc">🕸️ Agentic AI</text>
+  <text x="455" y="65" class="desc">Tool calling, multi-actor state, persistent memory, and</text>
+  <text x="455" y="85" class="desc">adaptive routing workflows using LangGraph.</text>
+
+  <!-- Card 3: RAG -->
+  <rect x="10" y="120" width="410" height="98" class="card"/>
+  <rect x="10" y="120" width="410" height="3" rx="1" fill="url(#cyanGlow)"/>
+  <circle cx="28" cy="145" r="4" fill="#38bdf8" filter="url(#cardBlur)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="42" y="150" class="title" fill="#38bdf8">🔎 Advanced RAG</text>
+  <text x="25" y="175" class="desc">Document parsing, chunking strategies, dense vector</text>
+  <text x="25" y="195" class="desc">search, MMR retrieval, and conversational grounding.</text>
+
+  <!-- Card 4: ML / DL -->
+  <rect x="440" y="120" width="410" height="98" class="card"/>
+  <rect x="440" y="120" width="410" height="3" rx="1" fill="url(#purpleGlow)"/>
+  <circle cx="458" cy="145" r="4" fill="#ec4899" filter="url(#cardBlur)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="472" y="150" class="title" fill="#f472b6">🧪 Deep Learning &amp; CV</text>
+  <text x="455" y="175" class="desc">Classification pipelines, transformer architectures,</text>
+  <text x="455" y="195" class="desc">computer vision segmentation, and practical modeling.</text>
+</svg>
