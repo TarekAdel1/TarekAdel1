@@ -113,13 +113,19 @@ Multi-PDF conversational assistant with follow-up memory, MMR retrieval and sour
 ## 🌐 CONNECT
 
 <div align="center">
-<a href="https://www.linkedin.com/in/tarek-adell">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/TarekAdel1">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><br/><br/>
+  <a href="https://www.linkedin.com/in/tarek-adell" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TarekAdel1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tarekkadel1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0E7490,100:4C1D95" width="100%"/>
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/footer.svg" width="100%" alt="Footer Decorative Wave"/>
 </div>
