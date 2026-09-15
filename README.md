@@ -103,19 +103,6 @@ Multi-PDF conversational assistant with follow-up memory, MMR retrieval and sour
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TarekAdel1&layout=compact&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000&cache_seconds=7200" height="175" alt="Top Languages"/><br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAdel1&theme=transparent&hide_border=true&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF&mode=daily" width="72%" alt="Streak Stats"/>
-</div>
-
-## 📈 ACTIVITY_STREAM
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarekAdel1&custom_title=Contribution%20Activity&bg_color=0D1117&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Stream"/>
-</div>
-
-## 📈 ACTIVITY_STREAM
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarekAdel1&bg_color=00000000&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub activity graph"/>
-</div>
 
 ## 🎯 ROADMAP
 
