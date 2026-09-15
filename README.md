@@ -67,35 +67,15 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#build" height="38" alt="What I Build"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#contribution" height="38" alt="Contribution Matrix"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/what-i-build.svg" width="95%" alt="What I Build Capabilities"/>
+  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="95%"/>
 </div>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#projects" height="38" alt="Featured Projects"/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/featured-projects.svg" width="95%" alt="Featured AI Projects"/>
-
-  <br/><br/>
-
-  <a href="https://github.com/TarekAdel1" target="_blank">
-    <img src="https://img.shields.io/badge/NEXUS-View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TarekAdel1/rag-conversational-chatbot" target="_blank">
-    <img src="https://img.shields.io/badge/RAG%20Assistant-View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-## 🐍 CONTRIBUTION_MATRIX
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="95%"/>
-</div>
 
 <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#metrics" height="38" alt="System Metrics"/>
 
@@ -104,11 +84,15 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TarekAdel1&layout=compact&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000&cache_seconds=7200" height="175" alt="Top Languages"/>
 </div>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#roadmap" height="38" alt="Roadmap"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/roadmap.svg" width="95%" alt="Tarek's AI Engineering Roadmap"/>
 </div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#connect" height="38" alt="Connect"/>
 
