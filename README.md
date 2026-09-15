@@ -106,23 +106,9 @@ Multi-PDF conversational assistant with follow-up memory, MMR retrieval and sour
 
 ## 🎯 ROADMAP
 
-```text
-                    AI ENGINEERING
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-       GenAI          Agents           ML
-          │              │              │
-          ▼              ▼              ▼
-        RAG          LangGraph       Deep Learning
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                 Production AI
-                         │
-                         ▼
-                 🚀 BUILD & SHIP
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/roadmap.svg" width="95%" alt="Tarek's AI Engineering Roadmap"/>
+</div>
 
 ## 🌐 CONNECT
 
