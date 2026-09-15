@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#whoami" height="38" alt="whoami"/>
+### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%3E%20whoami&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="> whoami"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/whoami.svg" width="95%" alt="Tarek Adel Class Definition"/>
@@ -30,7 +30,7 @@
   <i>I build practical AI applications and enjoy going beyond simple model demos — from LLM-powered applications and RAG pipelines to tool-using agents and production-oriented APIs.</i>
 </p>
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#stack" height="38" alt="Current Stack"/>
+### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%E2%9A%A1%20CURRENT_STACK&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="⚡ CURRENT_STACK"/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,streamlit,docker,git,github,linux,vscode&perline=11" /><br/><br/>
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Groq-F97316?style=for-the-badge&logo=groq&logoColor=white"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#build" height="38" alt="What I Build"/>
+### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%F0%9F%A7%A0%20WHAT_I_BUILD&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="🧠 WHAT_I_BUILD"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/what-i-build.svg" width="95%" alt="What I Build Capabilities"/>
@@ -51,7 +51,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#projects" height="38" alt="Featured Projects"/>
+### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%F0%9F%9A%80%20FEATURED_PROJECTS&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="🚀 FEATURED_PROJECTS"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/featured-projects.svg" width="95%" alt="Featured AI Projects"/>
@@ -69,7 +69,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#contribution" height="38" alt="Contribution Matrix"/>
+### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%F0%9F%90%8D%20CONTRIBUTION_MATRIX&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="🐍 CONTRIBUTION_MATRIX"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="95%"/>
@@ -77,7 +77,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#metrics" height="38" alt="System Metrics"/>
+### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%F0%9F%93%8A%20SYSTEM_METRICS&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="📊 SYSTEM_METRICS"/>
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=TarekAdel1&show_icons=true&hide_border=true&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000&rank_icon=github&cache_seconds=7200" height="175" alt="Tarek's GitHub stats"/>
@@ -86,7 +86,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#roadmap" height="38" alt="Roadmap"/>
+### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%F0%9F%8E%AF%20ROADMAP&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="🎯 ROADMAP"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/roadmap.svg" width="95%" alt="Tarek's AI Engineering Roadmap"/>
@@ -94,7 +94,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TarekAdel1/TarekAdel1/main/assets/headers.svg#connect" height="38" alt="Connect"/>
+### <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%F0%9F%8C%90%20CONNECT&fontSize=18&fontColor=67E8F9&color=0:111827,100:0F172A&stroke=0891B2&strokeWidth=1" height="34" alt="🌐 CONNECT"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tarek-adell" target="_blank">
